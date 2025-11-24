@@ -56,11 +56,9 @@ function generateReadme(data) {
 
   let readme = `# Türkiye'nin en iyi yazılımcıları 👩‍💻👨‍💻
 
-Türkiye'nin en iyi yazılımcılarını https://x.com/eniyiyazilimci profilinin takip listesinden referans alarak derleyen liste.
+Türkiye'nin en iyi yazılımcılarını https://x.com/eniyiyazilimci profilinin takip listesinden referans alarak otomatik olarak derlenir. Liste her güncellemede rastgele sıralanır.
 
 ---
-
-## 👥 Takip Edilen Kullanıcılar
 
 `;
 
@@ -92,12 +90,6 @@ ${user.description || '_Açıklama yok_'}
   });
 
   readme += `
----
-
-## 🤖 Otomasyon
-
-Bu liste **GitHub Actions** ile günde 2 kez (09:00 ve 21:00 TSI) otomatik olarak güncellenmektedir.
-
 ---
 
 <div align="center">
