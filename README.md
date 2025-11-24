@@ -12,6 +12,26 @@ Türkiye'nin en iyi yazılımcılarını https://x.com/eniyiyazilimci profilinin
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1576143449648254976/HxN6NGAX_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+phasenull.dev  **[@phasenull](https://x.com/phasenull)**
+
+kişisel not nefterim, konular hakkındaki kişisel görüşlerim ve arşiv (kısaca boş konuşuyorum)
+
+📍 Konum belirtilmemiş | 👥 139 takipçi | 🔗 417 takip | 🌐 [Website](https://t.co/loCcYcBusp)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1452217991479894028/eKwYTt7m_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -1762,24 +1782,6 @@ TypeScript, Aws, Serverless, React, Leadership -Software Craftsman.
 </table>
 
 
-### 
-
-<table>
-<tr>
-<td width="80">
-  <img src="https://pbs.twimg.com/profile_images/1576143449648254976/HxN6NGAX_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
-</td>
-<td>
-
-phasenull.dev  **[@phasenull](https://x.com/phasenull)**
-
-kişisel not nefterim, konular hakkındaki kişisel görüşlerim ve arşiv (kısaca boş konuşuyorum)
-
-📍 Konum belirtilmemiş | 👥 139 takipçi | 🔗 417 takip | 🌐 [Website](https://t.co/loCcYcBusp)
-
-</td>
-</tr>
-</table>
 
 
 ### 
