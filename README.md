@@ -23,7 +23,7 @@ Kitaplar:
 'Yapay Zekâya Giriş', 'En Hakiki Mürşit', 'Yeni Dünya, Yeni Ağ', '50 Soruda Yapay Zekâ'.
 Ve 'Geometri' (Atatürk)
 
-📍 Konum belirtilmemiş | 👥 370.736 takipçi | 🔗 1.154 takip | 🌐 [Website](https://t.co/093L2xYqyv)
+📍 Konum belirtilmemiş | 👥 370.737 takipçi | 🔗 1.155 takip | 🌐 [Website](https://t.co/093L2xYqyv)
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ Oğuzhan Koçaklı, MBA  **[@oguzhankocakli](https://x.com/oguzhankocakli)**
 
 GenAI Enthusiast | VibeCoder | #AI #Gaming #Blockchain | ex. PMP, PO of many mobile apps and games | 📧: oguzhankocakli@gmail.com
 
-📍 İstanbul, Türkiye | 👥 143.008 takipçi | 🔗 943 takip | 🌐 [Website](https://t.co/TBIeAqhhj6) | 💼 Entrepreneur
+📍 İstanbul, Türkiye | 👥 143.011 takipçi | 🔗 944 takip | 🌐 [Website](https://t.co/TBIeAqhhj6) | 💼 Entrepreneur
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ fatih kadir akın  **[@fkadev](https://x.com/fkadev)**
 
 happy dad • vibecoder • devrel @teknasyontech • @github star • @windsurf ambassador • wrote books • entrepreneμr (2 exits) • https://t.co/Le9eGTUGkE • https://t.co/XH7MQYlxt8 • en/tr
 
-📍 universe | 👥 95.132 takipçi | 🔗 2.504 takip | 🌐 [Website](https://t.co/WaQTO4HV46) | 💼 Creator
+📍 universe | 👥 95.145 takipçi | 🔗 2.503 takip | 🌐 [Website](https://t.co/WaQTO4HV46) | 💼 Creator
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ Harun CAN  **[@HRNCN](https://x.com/HRNCN)**
 
 Oyuncu, seslendirme sanatçısı, müzik yakıtı... ¨Korkuluk // Bir Hayvan Yaratmak (2013)¨
 
-📍 İstanbul | 👥 80.484 takipçi | 🔗 636 takip | 🌐 [Website](https://t.co/xkhqAjmo31) | 💼 Actor
+📍 İstanbul | 👥 80.481 takipçi | 🔗 636 takip | 🌐 [Website](https://t.co/xkhqAjmo31) | 💼 Actor
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ onur ozcan  **[@oozn](https://x.com/oozn)**
 
 growth at @wiroai | indie maker for 10+ years. growth marketing consultant by day, ai-assisted product builder by night. generalist/flâneur. tweeps in en/tr.
 
-📍 Istanbul, Turkey | 👥 56.153 takipçi | 🔗 1.330 takip | 💼 Creator
+📍 Istanbul, Turkey | 👥 56.159 takipçi | 🔗 1.330 takip | 💼 Creator
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ Furkan Kılıç  **[@benfurkankilic](https://x.com/benfurkankilic)**
 
 co-founder @EchoStudioHQ • building products @furkanbuilds • workplaces #furkanworks • contributor @acikyazilimagi • ADHD • ✉️ hi@furkankilic.dev
 
-📍 Konum belirtilmemiş | 👥 48.429 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 48.435 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
 
 </td>
 </tr>
@@ -143,7 +143,87 @@ Bora KAŞMER  **[@CoderBora](https://x.com/CoderBora)**
 
 I have been coding since 1993. I am computer and civil engineer. Microsoft #MVP. Software Architect. Ride motorcycle. Love Games. Married and have two daughters
 
-📍 İstanbul/Turkey | 👥 44.035 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
+📍 İstanbul/Turkey | 👥 44.037 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1921854716075450370/HXB6vll-_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Utku Şen  **[@utkusen](https://x.com/utkusen)**
+
+computer security, songwriter (https://t.co/dd9Q04vmb8) | https://t.co/NIjgegsGw5 | https://t.co/0MVtbdwONf | 🇬🇧english = @utkusen_en
+
+📍 London | 👥 41.114 takipçi | 🔗 980 takip | 🌐 [Website](https://t.co/PabOze5DLY)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1905882314766233600/yRsTAlnY_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Fatih Güner —— komunite.com.tr  **[@fatihguner](https://x.com/fatihguner)**
+
+Founder of the most prominent indie hacker community in Turkiye @komunitecomtr • Lokomotif AI'ı takip edin @lokomotifai • Presenter & Producer @acikoturum
+
+📍 Bodrum • Istanbul • World | 👥 40.782 takipçi | 🔗 2.885 takip | 🌐 [Website](https://t.co/lN54ASXHpQ)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1981041192570593281/h7olj2SW_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Mert Cobanov  **[@mertcobanov](https://x.com/mertcobanov)**
+
+Senior AI Engineer @refikanadol • https://t.co/VIqXlLu8nH • https://t.co/Ta2PoN7Tvv
+
+📍 latent space | 👥 34.030 takipçi | 🔗 480 takip | 🌐 [Website](https://t.co/O0DmxlvIpD) | 💼 Creator
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1982049251971457024/jM2U_pUR_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+𝗈𝗓𝖺𝗇  **[@OzanStark](https://x.com/OzanStark)**
+
+Founder, OveK A.I                        Building intelligent systems that solve real problems.
+
+📍 Muğla, Türkiye | 👥 26.546 takipçi | 🔗 1.078 takip | 🌐 [Website](https://t.co/6xvaAqo851) | 💼 Creator
 
 </td>
 </tr>
@@ -163,7 +243,31 @@ Emre Savcı  **[@mstrYoda_](https://x.com/mstrYoda_)**
 
 Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Evangelist | Open source contributor | Organizer @GoTurkiye_
 
-📍 Konum belirtilmemiş | 👥 26.414 takipçi | 🔗 545 takip | 🌐 [Website](https://t.co/rCBmdLwcBV)
+📍 Konum belirtilmemiş | 👥 26.416 takipçi | 🔗 545 takip | 🌐 [Website](https://t.co/rCBmdLwcBV)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1880682188150067200/txEXYDrK_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+E. Okay Akça  **[@eokayakca](https://x.com/eokayakca)**
+
+Yapay Zekâ Geliştiricisi | MergenTLM (@mergenTLM) Kurucu Ortağı
+
+Yapay zekâyı anlamak, insan bilincini çözmektir.
+
+Instagram: @eokayakca
+
+📍 Konum belirtilmemiş | 👥 24.043 takipçi | 🔗 1.012 takip | 🌐 [Website](https://t.co/K0L57iYDAN) | 💼 Creator
 
 </td>
 </tr>
@@ -183,7 +287,49 @@ Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Ev
 
 Data Center & Cloud Product Manager & Solution Architect / Electrical & Electronics Engineer • MBA • MIS • Lifelong Learner • Altug as a Service ☁️ • TA2TUU
 
-📍 Ankara | 👥 21.474 takipçi | 🔗 4.946 takip | 💼 Cloud Services & Solutions
+📍 Ankara | 👥 21.474 takipçi | 🔗 4.948 takip | 💼 Cloud Services & Solutions
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1920764981693349888/SOEf_RwK_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Erdal Bektas  **[@eeebektas](https://x.com/eeebektas)**
+
+Software physicist, linear algebra bender, co-founder& swiss army knife of some startups.
+
+Online services maker; one man army as co-founder.
+
+📍 unartificial intelligence | 👥 20.173 takipçi | 🔗 1.318 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1973279401535004672/iFFK7iyu_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Onur Aslan  **[@aslanon](https://x.com/aslanon)**
+
+building  @creavitstudio, developer @yolcu360
+
+📍 Konum belirtilmemiş | 👥 19.712 takipçi | 🔗 839 takip | 🌐 [Website](https://t.co/3lSMODcnjf) | 💼 Science & Technology
 
 </td>
 </tr>
@@ -204,7 +350,7 @@ Doğan Dağdelen  **[@DoanDadelen5](https://x.com/DoanDadelen5)**
 Off, on, fix.
 (doda)
 
-📍 Esenyurt, İstanbul | 👥 19.364 takipçi | 🔗 17.170 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
+📍 Esenyurt, İstanbul | 👥 19.364 takipçi | 🔗 17.171 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
 
 </td>
 </tr>
@@ -244,7 +390,27 @@ Arif  **[@arifgpt](https://x.com/arifgpt)**
 
 CTO at KARDEŞLER YAZ. BİL. İŞL. SAN. LTD. part time Kumarhane Güvenlik Şefi at Casino Intl. Batumi ex teach lead & GM @ Metin2 786 iq, tested, ömer baba fanclub
 
-📍 Konum belirtilmemiş | 👥 19.286 takipçi | 🔗 847 takip
+📍 Konum belirtilmemiş | 👥 19.303 takipçi | 🔗 847 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1731448440679182337/9jvxgwqz_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Sezer İltekin  **[@sezeriltekin](https://x.com/sezeriltekin)**
+
+ developer • ex-officer @emniyetgm • lightning catcher @thundercatchapp • tdk ambassador @dahi_anlaminda • blogger @kelimelerbenim •  ✉️ sezer@iltekin.com
+
+📍 İstanbul, Türkiye | 👥 19.179 takipçi | 🔗 816 takip | 💼 Creator
 
 </td>
 </tr>
@@ -266,7 +432,7 @@ Founder of @nefariusapps & @icommunitycomtr,
 
 Builds software products.
 
-📍 Istanbul, Turkey | 👥 18.881 takipçi | 🔗 834 takip | 🌐 [Website](https://t.co/kDxkSlYQxG) | 💼 Creator
+📍 Istanbul, Turkey | 👥 18.882 takipçi | 🔗 834 takip | 🌐 [Website](https://t.co/kDxkSlYQxG) | 💼 Creator
 
 </td>
 </tr>
@@ -289,7 +455,27 @@ Its opinions will never budge.
 A vibrant orb, with hues so bright,
 Unwavering in its stances and might.
 
-📍 The Chromatic Citadel | 👥 16.690 takipçi | 🔗 995 takip | 🌐 [Website](https://t.co/kBba3yYc6y)
+📍 The Chromatic Citadel | 👥 16.693 takipçi | 🔗 995 takip | 🌐 [Website](https://t.co/kBba3yYc6y)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1893056801882492928/XwVvdWZj_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Can Vardar  **[@canvardar](https://x.com/canvardar)**
+
+swe | founder @cupolalabs | i use vim btw | consumer of @better_auth, @convex, @claudeai, @turborepo, @bunjavascript, @rustlang, @cloudflare, @typescript
+
+📍 Istanbul | 👥 15.341 takipçi | 🔗 945 takip | 🌐 [Website](https://t.co/dcFN3Zs8wa) | 💼 Creator
 
 </td>
 </tr>
@@ -309,7 +495,7 @@ Elif Bilge  **[@elifbilgepp](https://x.com/elifbilgepp)**
 
 iOS dev @ TurkishTechnology | cute apps & curious mind
 
-📍 Konum belirtilmemiş | 👥 12.739 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 12.743 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
 
 </td>
 </tr>
@@ -329,7 +515,70 @@ Kerem Erkan  **[@Kerem_Erkan](https://x.com/Kerem_Erkan)**
 
 Developer of @Qrafter® / @Junkman_app / @Begone_app / PSWD
 
-📍 Konum belirtilmemiş | 👥 12.737 takipçi | 🔗 1.120 takip | 🌐 [Website](https://t.co/vIWm6R7xDK) | 💼 Software developer/Programmer/Software engineer
+📍 Konum belirtilmemiş | 👥 12.737 takipçi | 🔗 1.119 takip | 🌐 [Website](https://t.co/vIWm6R7xDK) | 💼 Software developer/Programmer/Software engineer
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1769399895977234432/VglWcyn4_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Barış Ünver  **[@BarisUnver](https://x.com/BarisUnver)**
+
+Amatör yazar, profesyonel kodlar.
+
+(@BarisUnver_EN for English.)
+
+📍 Ankara | 👥 11.959 takipçi | 🔗 298 takip | 🌐 [Website](https://t.co/yqsRlQELQq) | 💼 Author
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1923144380094849025/lXqUmjtn_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Mert Demirdelen  **[@itsnotmyai](https://x.com/itsnotmyai)**
+
+Scaling apps by day, soaring skies by night✈️ Bringing mobile and AI concepts to life📱 keçi, keçiören keçisi
+
+📍 Ankara | 👥 11.203 takipçi | 🔗 1.158 takip | 🌐 [Website](https://t.co/FDhSNsBVwT)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1907185846421192704/85yuSDjT_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Ege Beşe  **[@egebese](https://x.com/egebese)**
+
+gündüzleri ui/ux tasarımcı, akşamları vibecoder/indie maker
+ios uygulamamı 10k$ / MRR yapmaya uğraşıyorum → https://t.co/ET7F9chxL1
+
+📍 localhost:3000 | 👥 9.367 takipçi | 🔗 470 takip | 🌐 [Website](https://t.co/8pxUj8oZNS) | 💼 Creator
 
 </td>
 </tr>
@@ -369,7 +618,7 @@ Arda Balkan  **[@ardabalkandev](https://x.com/ardabalkandev)**
 
 Yazılımcı, Amatör İHA Pilotu, Ahşap Oymacı, Ziraat Mühendisi @Weather4Fly
 
-📍 Auckland | 👥 7.755 takipçi | 🔗 4.010 takip | 🌐 [Website](https://t.co/2WCvHRc7IA)
+📍 Auckland | 👥 7.757 takipçi | 🔗 4.010 takip | 🌐 [Website](https://t.co/2WCvHRc7IA)
 
 </td>
 </tr>
@@ -389,7 +638,7 @@ Ersin KOÇ  **[@ersinkoc](https://x.com/ersinkoc)**
 
 Entrepreneur, Software Developer, Open Source Lover, Honorary President of the Estonian Association of Atheists Expatriates 🇹🇷🇪🇪
 
-📍 Tallinn 🇪🇪 | 👥 7.431 takipçi | 🔗 808 takip | 🌐 [Website](https://t.co/3Caz6Ochgw) | 💼 Entrepreneur
+📍 Tallinn 🇪🇪 | 👥 7.435 takipçi | 🔗 808 takip | 🌐 [Website](https://t.co/3Caz6Ochgw) | 💼 Entrepreneur
 
 </td>
 </tr>
@@ -409,7 +658,7 @@ fatih  **[@fatihguzeldev](https://x.com/fatihguzeldev)**
 
 solutions architect & software engineer. i love simplifying things.
 
-📍 https://fatihguzel.dev | 👥 7.424 takipçi | 🔗 68 takip | 🌐 [Website](https://t.co/8Eylz7WTJW) | 💼 Creator
+📍 https://fatihguzel.dev | 👥 7.425 takipçi | 🔗 68 takip | 🌐 [Website](https://t.co/8Eylz7WTJW) | 💼 Creator
 
 </td>
 </tr>
@@ -429,7 +678,7 @@ Enes Kırdemir ✪  **[@aeneskirdemir](https://x.com/aeneskirdemir)**
 
 Ui Designer I Ux Researcher I FrontEnd Developer alptekinenes@gmail.com
 
-📍 Ankara, Türkiye | 👥 7.186 takipçi | 🔗 5.897 takip | 🌐 [Website](https://t.co/8otMuhV97x) | 💼 UI Designer
+📍 Ankara, Türkiye | 👥 7.184 takipçi | 🔗 5.897 takip | 🌐 [Website](https://t.co/8otMuhV97x) | 💼 UI Designer
 
 </td>
 </tr>
@@ -449,7 +698,7 @@ Ayşe Aktağ  **[@aayseaktag](https://x.com/aayseaktag)**
 
 Cyber Security Specialist, activist and mostly cat servant..🪿
 
-📍 Konum belirtilmemiş | 👥 6.323 takipçi | 🔗 2.071 takip | 🌐 [Website](https://t.co/gg1Em4kT92)
+📍 Konum belirtilmemiş | 👥 6.322 takipçi | 🔗 2.071 takip | 🌐 [Website](https://t.co/gg1Em4kT92)
 
 </td>
 </tr>
@@ -481,6 +730,28 @@ Product @edge_delta | Co-Founder @amptdev | AWS Serverless Hero
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1980397394089979904/SUdd56rt_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Ercan Ermiş  **[@flightlesstux](https://x.com/flightlesstux)**
+
+Tech Expert AWS Cloud & Operations ☁️
+AWS Cloud Certified & AWS Community Builder ☺️
+AWS | MCP | k8s | DevOps 🏳️‍🌈⃤ -
+
+📍 Netherlands 🇳🇱 | 👥 5.997 takipçi | 🔗 1.441 takip | 🌐 [Website](https://t.co/9j6iMyGU91) | 💼 Science & Technology
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1934375000779210752/MR7cw2_9_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -490,7 +761,7 @@ Rahmi Vidinlioğlu  **[@RVidinlioglu](https://x.com/RVidinlioglu)**
 Founder @ https://t.co/RISlpxytop 
 Web Developer, SEO Specialist, Şair, Yazar
 
-📍 Konum belirtilmemiş | 👥 5.902 takipçi | 🔗 3.718 takip | 🌐 [Website](https://t.co/NYMKeNHa3Y)
+📍 Konum belirtilmemiş | 👥 5.901 takipçi | 🔗 3.719 takip | 🌐 [Website](https://t.co/NYMKeNHa3Y)
 
 </td>
 </tr>
@@ -564,6 +835,47 @@ computer engineer | mobile developer 🧟‍♀️
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1847691601436348416/_jK-0Nbg_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Nedim Arabacı  **[@needim](https://x.com/needim)**
+
+Building https://t.co/dAMbgg7eI0 / https://t.co/AUC64nYwP7
+Privacy First - Your data belongs to you.
+
+📍 Türkiye | 👥 5.196 takipçi | 🔗 3.031 takip | 🌐 [Website](https://t.co/NL0aCoKrFq) | 💼 Creator
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1805522328207470592/ud2uKArm_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Ilker  **[@ilkerulusoy](https://x.com/ilkerulusoy)**
+
+Computer Engineer / ITU CMPE ‘14 / Apple Teacher / #wwdc25 #wwdc24 #iOS #Android #AI #VibeCoding / Jr. #AppGrowth / @aipaturkey - may not reply until November 1
+
+📍 Konum belirtilmemiş | 👥 5.052 takipçi | 🔗 3.693 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1987738295531380736/P2S-DVoJ_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -574,7 +886,7 @@ Computer scientist
 
 🇳🇱🇹🇷🇬🇧🇸🇦
 
-📍 World | 👥 4.951 takipçi | 🔗 711 takip | 🌐 [Website](https://t.co/02yhSKO8ub) | 💼 Home Security Company
+📍 World | 👥 4.972 takipçi | 🔗 711 takip | 🌐 [Website](https://t.co/02yhSKO8ub) | 💼 Home Security Company
 
 </td>
 </tr>
@@ -594,7 +906,7 @@ Mehmet Emin Aruk  **[@eminarukk](https://x.com/eminarukk)**
 
 📌 yapay zeka :: computer vision :: saas yazılımları ve ileri seviye teknolojiler | youtube: https://t.co/zpR6c6cW4x | github: https://t.co/oI60N6GT3s
 
-📍 danismanlik icin  👉 | 👥 4.671 takipçi | 🔗 215 takip | 🌐 [Website](https://t.co/I7nx5sTPkE) | 💼 Entrepreneur
+📍 danismanlik icin  👉 | 👥 4.673 takipçi | 🔗 215 takip | 🌐 [Website](https://t.co/I7nx5sTPkE) | 💼 Entrepreneur
 
 </td>
 </tr>
@@ -614,7 +926,7 @@ Beyza D.  **[@Renaittre](https://x.com/Renaittre)**
 
 Sadece ceng bi de dijital günlük
 
-📍 Ankara, Türkiye | 👥 4.641 takipçi | 🔗 875 takip
+📍 Ankara, Türkiye | 👥 4.642 takipçi | 🔗 875 takip
 
 </td>
 </tr>
@@ -637,7 +949,7 @@ odtu bilgisayar msc (terk)
 hacettepe bilgisayar bsc
 python sevdalilari dernegi 🐍
 
-📍 Amsterdam, The Netherlands | 👥 4.396 takipçi | 🔗 539 takip | 💼 Science & Technology
+📍 Amsterdam, The Netherlands | 👥 4.398 takipçi | 🔗 539 takip | 💼 Science & Technology
 
 </td>
 </tr>
@@ -657,7 +969,7 @@ Kübra  **[@Kubrapodf](https://x.com/Kubrapodf)**
 
 🧑‍💻 Mobile Developer
 
-📍 Konum belirtilmemiş | 👥 4.214 takipçi | 🔗 1.810 takip
+📍 Konum belirtilmemiş | 👥 4.212 takipçi | 🔗 1.808 takip
 
 </td>
 </tr>
@@ -677,7 +989,7 @@ Cemre  **[@CemreGuner](https://x.com/CemreGuner)**
 
 Beşiktaş JK Congress Member 🦅 | Architect Software Engineer ⌨️ | Kâfi… #Bambaşka
 
-📍 İstanbul, Türkiye | 👥 4.170 takipçi | 🔗 895 takip | 🌐 [Website](https://t.co/69sSd9HzI0) | 💼 Business
+📍 İstanbul, Türkiye | 👥 4.170 takipçi | 🔗 897 takip | 🌐 [Website](https://t.co/69sSd9HzI0) | 💼 Business
 
 </td>
 </tr>
@@ -697,7 +1009,7 @@ irem |⭐️  **[@shiningiros](https://x.com/shiningiros)**
 
 💻Software & Data👩🏻‍💻| çapa fen | deu-ie ✨Engineer & Data Analyst ⭐️✨On good days run, on bad days run harder🏃🏻‍♀️
 
-📍 777 | 👥 4.098 takipçi | 🔗 1.429 takip | 🌐 [Website](https://t.co/cf3qpd3k98) | 💼 Education
+📍 777 | 👥 4.098 takipçi | 🔗 1.430 takip | 🌐 [Website](https://t.co/cf3qpd3k98) | 💼 Education
 
 </td>
 </tr>
@@ -729,6 +1041,29 @@ funior dev | building dreams with code | legal alien in the matrix | less bugs, 
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1817958591350902784/ootTr6U5_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+tuna👨🏻‍💻  **[@Tunimba](https://x.com/Tunimba)**
+
+indie - iOS Developer🧢 no cap 
+🎮 Former Professional FIFA Player 
+📱 My Apps: https://t.co/ErZCSXsTkQ 
+🚀 My ASO tool: https://t.co/ViHxUn7waJ
+
+📍 slytherin house🐍 | 👥 3.637 takipçi | 🔗 380 takip | 🌐 [Website](https://t.co/F2l6AOudhY) | 💼 Mobile Application
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1845665820107567115/bPGMlNdp_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -737,7 +1072,7 @@ wojak.enginar  **[@wojakdeveloper](https://x.com/wojakdeveloper)**
 
 Lifelong Learner
 
-📍 Konum belirtilmemiş | 👥 3.200 takipçi | 🔗 1.016 takip
+📍 Konum belirtilmemiş | 👥 3.201 takipçi | 🔗 1.016 takip
 
 </td>
 </tr>
@@ -757,7 +1092,7 @@ kilimcinin kör oğlu  **[@KorOglan](https://x.com/KorOglan)**
 
 beyefendilik, yazılım, sistem yönetimi falan filan
 
-📍 Pattaya City | 👥 3.193 takipçi | 🔗 2.489 takip
+📍 Pattaya City | 👥 3.196 takipçi | 🔗 2.489 takip
 
 </td>
 </tr>
@@ -818,7 +1153,7 @@ ODEL 🔺  **[@odelioglu](https://x.com/odelioglu)**
 👨‍💻 Full Stack Developer & Mobile App Creator
 🚀 Founder of @AppalizeDev – ASO Tools for App Growth
 
-📍 Türkiye | 👥 3.041 takipçi | 🔗 485 takip | 🌐 [Website](https://t.co/Ljsma3gNOm) | 💼 Project Manager
+📍 Türkiye | 👥 3.040 takipçi | 🔗 485 takip | 🌐 [Website](https://t.co/Ljsma3gNOm) | 💼 Project Manager
 
 </td>
 </tr>
@@ -838,7 +1173,7 @@ Mustafa Kaçmaz  **[@kacmazdev](https://x.com/kacmazdev)**
 
 Freelance, Fullstack php developer…Self-improving… @zalando
 
-📍 İstanbul, Türkiye | 👥 2.990 takipçi | 🔗 1.798 takip | 🌐 [Website](https://t.co/TIt1bN61BE)
+📍 İstanbul, Türkiye | 👥 2.992 takipçi | 🔗 1.798 takip | 🌐 [Website](https://t.co/TIt1bN61BE)
 
 </td>
 </tr>
@@ -898,7 +1233,27 @@ Hatice  **[@haticeeladagli](https://x.com/haticeeladagli)**
 
 married🤍 Java Bakanı ︱Senior Software Developer
 
-📍 Kadıköy, İstanbul | 👥 2.547 takipçi | 🔗 943 takip | 🌐 [Website](https://t.co/i4YI9Ys5KR) | 💼 Science & Technology
+📍 Kadıköy, İstanbul | 👥 2.548 takipçi | 🔗 943 takip | 🌐 [Website](https://t.co/i4YI9Ys5KR) | 💼 Science & Technology
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1783540235151794176/GABaLX9x_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+ℂ𝕠𝕕𝕖 𝕔𝕠𝕕𝕖 = 𝕟𝕖𝕨 ℂ𝕠𝕕𝕖()  **[@0xfcode](https://x.com/0xfcode)**
+
+Code’umun dünyası - Errorle mücadele daire başkanı - Null Stack Developer - Java kuvvetleri komutanı | K̲e̲m̲i̲k̲ ̲g̲i̲b̲i̲ ̲A̲t̲a̲t̲ü̲r̲k̲ç̲ü̲. 𐱅𐰇𐰼𐰰
+
+📍 İstanbul | 👥 2.441 takipçi | 🔗 1.107 takip | 💼 Software developer/Programmer/Software engineer
 
 </td>
 </tr>
@@ -921,7 +1276,7 @@ Rahmi Dalıcı  **[@rahmidalici](https://x.com/rahmidalici)**
 https://t.co/aZWPZrN8VU
 https://t.co/i7bv0eorIn
 
-📍 İstanbul, Türkiye | 👥 2.349 takipçi | 🔗 586 takip | 🌐 [Website](https://t.co/YeIBNLnc8z) | 💼 Science & Technology
+📍 İstanbul, Türkiye | 👥 2.350 takipçi | 🔗 587 takip | 🌐 [Website](https://t.co/YeIBNLnc8z) | 💼 Science & Technology
 
 </td>
 </tr>
@@ -973,6 +1328,26 @@ Sena Yakut  **[@sena_yakutt](https://x.com/sena_yakutt)**
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1350349620338110467/2jVxWobm_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Tufan  **[@TufanKoc00](https://x.com/TufanKoc00)**
+
+We will either find a way or make one | Finance × Tech
+
+📍 Konum belirtilmemiş | 👥 2.099 takipçi | 🔗 4.368 takip | 💼 Creator
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1960449759094669312/GaCKqgfL_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -981,7 +1356,7 @@ Furkan Baytekin  **[@furkanbytekin](https://x.com/furkanbytekin)**
 
 🧙🏼‍♂️ Open Sourcerer 🐧 Linux Enthusiast 🎸 Amateur Musician 💻 Full Stack Developer 🎮 Game Developer 🌝 Moonlighter 📖 Bookworm
 
-📍 Ankara, Türkiye | 👥 2.045 takipçi | 🔗 1.195 takip | 🌐 [Website](https://t.co/V3MznsiJ8P)
+📍 Ankara, Türkiye | 👥 2.044 takipçi | 🔗 1.195 takip | 🌐 [Website](https://t.co/V3MznsiJ8P)
 
 </td>
 </tr>
@@ -1001,7 +1376,7 @@ Esra  **[@EsraMulkpinar](https://x.com/EsraMulkpinar)**
 
 developer👩🏻‍💻✨
 
-📍 Konum belirtilmemiş | 👥 2.022 takipçi | 🔗 378 takip | 🌐 [Website](https://t.co/MzAzxHlaMW)
+📍 Konum belirtilmemiş | 👥 2.024 takipçi | 🔗 378 takip | 🌐 [Website](https://t.co/MzAzxHlaMW)
 
 </td>
 </tr>
@@ -1021,7 +1396,7 @@ Kemal  **[@kegundogdu](https://x.com/kegundogdu)**
 
 co-founder @involopstudio ^ insan ^ hayvansever
 
-📍 Türkiye | 👥 1.790 takipçi | 🔗 600 takip | 🌐 [Website](https://t.co/kt5CIHjCdZ) | 💼 Creator
+📍 Türkiye | 👥 1.791 takipçi | 🔗 600 takip | 🌐 [Website](https://t.co/kt5CIHjCdZ) | 💼 Creator
 
 </td>
 </tr>
@@ -1041,7 +1416,7 @@ co-founder @involopstudio ^ insan ^ hayvansever
 
 yazılım film yemek falan bir şeyler işte ya | TR/EN | CEng’21 • RTS’22
 
-📍 İstanbul, TR | 👥 1.786 takipçi | 🔗 4.000 takip | 🌐 [Website](https://t.co/EfjcjP075h) | 💼 Software developer/Programmer/Software engineer
+📍 İstanbul, TR | 👥 1.789 takipçi | 🔗 4.000 takip | 🌐 [Website](https://t.co/EfjcjP075h) | 💼 Software developer/Programmer/Software engineer
 
 </td>
 </tr>
@@ -1061,7 +1436,27 @@ Anıl Fidan  **[@anilfiddan](https://x.com/anilfiddan)**
 
 WordPress, Part-Time İnşaat Ustası
 
-📍 Konum belirtilmemiş | 👥 1.716 takipçi | 🔗 813 takip | 💼 Blogger
+📍 Konum belirtilmemiş | 👥 1.716 takipçi | 🔗 814 takip | 💼 Blogger
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1989753024030396416/TPloHE0m_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+seda  **[@bulutvekedi](https://x.com/bulutvekedi)**
+
+industrial engineer
+
+📍 İstanbul, Türkiye | 👥 1.678 takipçi | 🔗 1.335 takip
 
 </td>
 </tr>
@@ -1124,7 +1519,7 @@ Electronics/MCU/Software/Knife/Weapon/EXP/Droner/
 vlogger-Yolsakini/
 TB2TTY/Akut/MEB Motosiklet Güvenli Ve İleri Sürüş Teknikleri Eğt.
 
-📍 Konum belirtilmemiş | 👥 1.456 takipçi | 🔗 830 takip | 🌐 [Website](https://t.co/hB4Q0oQTET)
+📍 Konum belirtilmemiş | 👥 1.457 takipçi | 🔗 830 takip | 🌐 [Website](https://t.co/hB4Q0oQTET)
 
 </td>
 </tr>
@@ -1205,7 +1600,7 @@ Ayberk  **[@wralith](https://x.com/wralith)**
 Software Developer @Trendyol
 Listens Tool, Creates Tools
 
-📍 Eskişehir | 👥 1.242 takipçi | 🔗 418 takip
+📍 Eskişehir | 👥 1.243 takipçi | 🔗 418 takip
 
 </td>
 </tr>
@@ -1245,7 +1640,7 @@ QA Engineer 👩‍💻 Streamer 🎤 Python Dev 🐍 Opensource Enthusiast 🐧
 
 _Açıklama yok_
 
-📍 Earth, 39.00°N, 35.00°E | 👥 1.184 takipçi | 🔗 1.084 takip | 🌐 [Website](https://t.co/gONih5Jkdw)
+📍 Earth, 39.00°N, 35.00°E | 👥 1.182 takipçi | 🔗 1.082 takip | 🌐 [Website](https://t.co/gONih5Jkdw)
 
 </td>
 </tr>
@@ -1266,6 +1661,26 @@ Muhammet Işık  **[@mahmetworld](https://x.com/mahmetworld)**
 Mahmet ✲ You have no cards! ✲ İnsan olduğunu unutan başkasının kusuruyla uğraşır. ✲ Esnaf Stack Developer ✲ Copy-Paste Engineer @itu1773
 
 📍 İstanbul, Türkiye | 👥 1.176 takipçi | 🔗 463 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1953810444134588416/BijWfPbx_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+𝕏  **[@1ncibatu](https://x.com/1ncibatu)**
+
+Software Developer 💻
+
+📍 Twitter HQ | 👥 996 takipçi | 🔗 952 takip | 🌐 [Website](https://t.co/JFUWKXppPb) | 💼 Science & Technology
 
 </td>
 </tr>
@@ -1347,7 +1762,7 @@ Temidaradev  **[@temidaradev](https://x.com/temidaradev)**
 
 16 / Self taught / Rust and Go / A highschooler from Türkiye / Gamedev / Loves learning new things / Coding and psychology 😍
 
-📍 Türkiye | 👥 720 takipçi | 🔗 504 takip | 🌐 [Website](https://t.co/9nrpbPZ8PX) | 💼 Creator
+📍 Türkiye | 👥 721 takipçi | 🔗 504 takip | 🌐 [Website](https://t.co/9nrpbPZ8PX) | 💼 Creator
 
 </td>
 </tr>
@@ -1390,7 +1805,7 @@ Aygün AKYILDIZ  **[@aygundev](https://x.com/aygundev)**
 
 Nkü - Computer Programming Istanbul University MIS 2/4 - Software Developer
 
-📍 Konum belirtilmemiş | 👥 641 takipçi | 🔗 790 takip | 🌐 [Website](https://t.co/jddBR6kGeS)
+📍 Konum belirtilmemiş | 👥 653 takipçi | 🔗 821 takip | 🌐 [Website](https://t.co/jddBR6kGeS)
 
 </td>
 </tr>
@@ -1451,7 +1866,7 @@ tahsin sungur  **[@tahsingibi](https://x.com/tahsingibi)**
 
 fr*ntend dev.
 
-📍 İzmir, Türkiye | 👥 383 takipçi | 🔗 332 takip | 🌐 [Website](https://t.co/qoiVauaLSy)
+📍 İzmir, Türkiye | 👥 384 takipçi | 🔗 332 takip | 🌐 [Website](https://t.co/qoiVauaLSy)
 
 </td>
 </tr>
@@ -1472,6 +1887,26 @@ Görkem Güray  **[@grkmgry](https://x.com/grkmgry)**
 Industrial Automation Software Developer | PLC | HMI | Motion Control @OmronTR & Sysmac Studio
 
 📍 İstanbul, Türkiye | 👥 372 takipçi | 🔗 2.266 takip | 🌐 [Website](https://t.co/sCF7EZ28nr) | 💼 Automation Control Company
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1138451340282212352/c8qmgKjL_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Salih Erim  **[@erimSa](https://x.com/erimSa)**
+
+Electronic Engineer, Embedded Software Developer, #Linux enthusiast
+
+📍 Mandalore | 👥 347 takipçi | 🔗 1.622 takip
 
 </td>
 </tr>
@@ -1504,6 +1939,29 @@ react and java developer / linux enthusiast
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1971996325991362560/M8Ofy-bW_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Rosetta AI  **[@AiRosettaAi](https://x.com/AiRosettaAi)**
+
+RosettAI 4+
+Your Personal AI Chat
+Salih Girgin
+Designed for iPhone
+
+📍 Napcan ziyarete mi gelcen | 👥 318 takipçi | 🔗 63 takip | 🌐 [Website](https://t.co/ndbB0XpwjW) | 💼 Technology Company
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1989806435216379904/Hd7RJ9BW_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -1512,7 +1970,7 @@ Kırboğa  **[@mskirbogaa](https://x.com/mskirbogaa)**
 
 Software Engineer | Playmaker x2
 
-📍 Konum belirtilmemiş | 👥 293 takipçi | 🔗 373 takip
+📍 Konum belirtilmemiş | 👥 295 takipçi | 🔗 374 takip
 
 </td>
 </tr>
@@ -1727,6 +2185,70 @@ B ❤️
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1981827368210620416/od4VYu6Z_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Cem Bıkmaz  **[@devgru023](https://x.com/devgru023)**
+
+Data Scientist - Industrial Engineer - AI Bender - Tank Lover
+
+📍 İstanbul | 👥 169 takipçi | 🔗 1.033 takip | 💼 Software Company
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1964375523129229312/uiSaXCnr_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Ahmet 🇹🇷 🇵🇸  **[@ByQXZ00](https://x.com/ByQXZ00)**
+
+Software Developer | Backend Developer
+
+📍 Türkiye | 👥 163 takipçi | 🔗 482 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1988913895755452416/k8uaf8Sn_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Gökdeniz Demir  **[@gokdenizdemirr](https://x.com/gokdenizdemirr)**
+
+Türk'üm, Doğruyum, Çalışkanım🇹🇷
+
+Co-founder 
+@chatlovelace
+@LovelaceTR
+
+📍 Konum belirtilmemiş | 👥 159 takipçi | 🔗 463 takip
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1685921804752183296/DGUyf0xv_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -1756,6 +2278,46 @@ Ayhan Sipahi  **[@_ayhansipahi](https://x.com/_ayhansipahi)**
 TypeScript, Aws, Serverless, React, Leadership -Software Craftsman.
 
 📍 localhost:3000 | 👥 150 takipçi | 🔗 264 takip | 🌐 [Website](https://t.co/5pUfylAiEq)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1869092636952256512/Z2pU4cwQ_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Hicabi YILMAZ  **[@hcbylmz_dev](https://x.com/hcbylmz_dev)**
+
+Reactjs/React Native developer.
+
+📍 Ankara, Türkiye | 👥 143 takipçi | 🔗 710 takip | 🌐 [Website](https://t.co/ksv2GBaBg7) | 💼 Software developer/Programmer/Software engineer
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1564674138593267715/baTeVi7b_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Erkan  **[@erkancomez](https://x.com/erkancomez)**
+
+MSc-Computer Engineering
+
+📍 Konya, Türkiye | 👥 141 takipçi | 🔗 159 takip | 🌐 [Website](https://t.co/4ZMioiv3gG) | 💼 Creator
 
 </td>
 </tr>
@@ -1847,6 +2409,26 @@ Software Developer
 <table>
 <tr>
 <td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1974823211301765120/dHco6yxx_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+İbrahim Hakkı Ergin🇹🇷🇵🇸  **[@ihakkiergin](https://x.com/ihakkiergin)**
+
+Yazılım Mühendisliği
+
+📍 Türkiye  | 👥 67 takipçi | 🔗 313 takip | 🌐 [Website](https://t.co/x3uOCMT4GA) | 💼 Creator
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
   <img src="https://pbs.twimg.com/profile_images/1959038878687350785/RgZD3V8y_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
 </td>
 <td>
@@ -1876,6 +2458,26 @@ Entrepreneur, developer, and futurist.  Founder of @greenboxai
 𝘞𝘌 𝘌𝘕𝘝𝘠 𝘕𝘖𝘛𝘏𝘐𝘕𝘎 𝘐𝘕 𝘛𝘏𝘌 𝘞𝘖𝘙𝘓𝘋 | Mobile App Developer
 
 📍 Italy | 👥 26 takipçi | 🔗 158 takip | 🌐 [Website](https://t.co/VzcrxVnkDF)
+
+</td>
+</tr>
+</table>
+
+
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1909344638831403008/oI5NGZKA_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+KaanCL  **[@kaan_cl](https://x.com/kaan_cl)**
+
+_Açıklama yok_
+
+📍 Konum belirtilmemiş | 👥 24 takipçi | 🔗 213 takip | 🌐 [Website](https://t.co/EtC7oPIBbM)
 
 </td>
 </tr>
@@ -1962,6 +2564,29 @@ Software Developer - Uykusuz Developer.
 </table>
 
 
+### 
+
+<table>
+<tr>
+<td width="80">
+  <img src="https://pbs.twimg.com/profile_images/1992872437499785216/ZzAIAuLr_bigger.jpg" width="80" height="80" style="border-radius: 50%;">
+</td>
+<td>
+
+Ege Hakan Karaagac  **[@karaagac_e78693](https://x.com/karaagac_e78693)**
+
+CEO @ BrandVox AI | Ex-Amazon |
+
+Building AI that reflects your brand | 
+Markanızı yansıtan yapay zekâ geliştiriyoruz
+
+📍 Istanbul / Turkey | 👥 4 takipçi | 🔗 37 takip | 🌐 [Website](https://t.co/gBVCHPohN2)
+
+</td>
+</tr>
+</table>
+
+
 ---
 
 ## 🤖 Otomasyon
@@ -1974,7 +2599,7 @@ Bu liste **GitHub Actions** ile günde 2 kez (09:00 ve 21:00 TSI) otomatik olara
 
 **Powered by GitHub Actions** 🚀
 
-_Toplam 96 kullanıcı_
-_Son güncelleme: 24 Kasım 2025 15:16_
+_Toplam 126 kullanıcı_
+_Son güncelleme: 24 Kasım 2025 17:00_
 
 </div>
