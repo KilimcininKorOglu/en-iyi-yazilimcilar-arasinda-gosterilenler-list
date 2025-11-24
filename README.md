@@ -103,7 +103,7 @@ Oyuncu, seslendirme sanatçısı, müzik yakıtı... ¨Korkuluk // Bir Hayvan Ya
 
 growth at @wiroai | indie maker for 10+ years. growth marketing consultant by day, ai-assisted product builder by night. generalist/flâneur. tweeps in en/tr.
 
-📍 Istanbul, Turkey | 👥 56.148 takipçi | 🔗 1.330 takip | 💼 Creator
+📍 Istanbul, Turkey | 👥 56.150 takipçi | 🔗 1.330 takip | 💼 Creator
 
 </td>
 </tr>
@@ -123,7 +123,7 @@ growth at @wiroai | indie maker for 10+ years. growth marketing consultant by da
 
 co-founder @EchoStudioHQ • building products @furkanbuilds • workplaces #furkanworks • contributor @acikyazilimagi • ADHD • ✉️ hi@furkankilic.dev
 
-📍 Konum belirtilmemiş | 👥 48.430 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 48.431 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ co-founder @EchoStudioHQ • building products @furkanbuilds • workplaces #fur
 
 I have been coding since 1993. I am computer and civil engineer. Microsoft #MVP. Software Architect. Ride motorcycle. Love Games. Married and have two daughters
 
-📍 İstanbul/Turkey | 👥 44.033 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
+📍 İstanbul/Turkey | 👥 44.034 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Ev
 
 Data Center & Cloud Product Manager & Solution Architect / Electrical & Electronics Engineer • MBA • MIS • Lifelong Learner • Altug as a Service ☁️ • TA2TUU
 
-📍 Ankara | 👥 21.473 takipçi | 🔗 4.945 takip | 💼 Cloud Services & Solutions
+📍 Ankara | 👥 21.472 takipçi | 🔗 4.945 takip | 💼 Cloud Services & Solutions
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ Data Center & Cloud Product Manager & Solution Architect / Electrical & Electron
 Off, on, fix.
 (doda)
 
-📍 Esenyurt, İstanbul | 👥 19.362 takipçi | 🔗 17.168 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
+📍 Esenyurt, İstanbul | 👥 19.361 takipçi | 🔗 17.168 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
 
 </td>
 </tr>
@@ -244,7 +244,7 @@ swe, gönüllü @ @acikyazilimagi, fellow @ @tfashionai | ingilizce hesabım: @e
 
 CTO at KARDEŞLER YAZ. BİL. İŞL. SAN. LTD. part time Kumarhane Güvenlik Şefi at Casino Intl. Batumi ex teach lead & GM @ Metin2 786 iq, tested, ömer baba fanclub
 
-📍 Konum belirtilmemiş | 👥 19.261 takipçi | 🔗 844 takip
+📍 Konum belirtilmemiş | 👥 19.263 takipçi | 🔗 844 takip
 
 </td>
 </tr>
@@ -289,7 +289,7 @@ Its opinions will never budge.
 A vibrant orb, with hues so bright,
 Unwavering in its stances and might.
 
-📍 The Chromatic Citadel | 👥 16.688 takipçi | 🔗 995 takip | 🌐 [Website](https://t.co/kBba3yYc6y)
+📍 The Chromatic Citadel | 👥 16.689 takipçi | 🔗 995 takip | 🌐 [Website](https://t.co/kBba3yYc6y)
 
 </td>
 </tr>
@@ -329,7 +329,7 @@ Developer of @Qrafter® / @Junkman_app / @Begone_app / PSWD
 
 iOS dev @ TurkishTechnology | cute apps & curious mind
 
-📍 Konum belirtilmemiş | 👥 12.736 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 12.737 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
 
 </td>
 </tr>
@@ -655,7 +655,7 @@ Beşiktaş JK Congress Member 🦅 | Architect Software Engineer ⌨️ | Kâfi�
 
 💻Software & Data👩🏻‍💻| çapa fen | deu-ie ✨Engineer & Data Analyst ⭐️✨On good days run, on bad days run harder🏃🏻‍♀️
 
-📍 777 | 👥 4.098 takipçi | 🔗 1.429 takip | 🌐 [Website](https://t.co/cf3qpd3k98) | 💼 Education
+📍 777 | 👥 4.097 takipçi | 🔗 1.428 takip | 🌐 [Website](https://t.co/cf3qpd3k98) | 💼 Education
 
 </td>
 </tr>
@@ -776,7 +776,7 @@ Computer & Software Engineer | Hardware & Software Content Creator | Delegate of
 👨‍💻 Full Stack Developer & Mobile App Creator
 🚀 Founder of @AppalizeDev – ASO Tools for App Growth
 
-📍 Türkiye | 👥 3.041 takipçi | 🔗 485 takip | 🌐 [Website](https://t.co/Ljsma3gNOm) | 💼 Project Manager
+📍 Türkiye | 👥 3.042 takipçi | 🔗 485 takip | 🌐 [Website](https://t.co/Ljsma3gNOm) | 💼 Project Manager
 
 </td>
 </tr>
@@ -999,7 +999,7 @@ co-founder @involopstudio ^ insan ^ hayvansever
 
 yazılım film yemek falan bir şeyler işte ya | TR/EN | CEng’21 • RTS’22
 
-📍 İstanbul, TR | 👥 1.784 takipçi | 🔗 3.989 takip | 🌐 [Website](https://t.co/EfjcjP075h) | 💼 Software developer/Programmer/Software engineer
+📍 İstanbul, TR | 👥 1.784 takipçi | 🔗 3.988 takip | 🌐 [Website](https://t.co/EfjcjP075h) | 💼 Software developer/Programmer/Software engineer
 
 </td>
 </tr>
@@ -1832,6 +1832,6 @@ Bu liste **GitHub Actions** ile günde 2 kez (09:00 ve 21:00 TSI) otomatik olara
 **Powered by GitHub Actions** 🚀
 
 _Toplam 89 kullanıcı_
-_Son güncelleme: 24 Kasım 2025 11:52_
+_Son güncelleme: 24 Kasım 2025 11:55_
 
 </div>
