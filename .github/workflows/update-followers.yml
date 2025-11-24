@@ -2,10 +2,7 @@ name: Update Twitter Following List
 
 on:
   schedule:
-    # Her gün 09:00 TSI (06:00 UTC)
-    - cron: '0 6 * * *'
-    # Her gün 21:00 TSI (18:00 UTC)
-    - cron: '0 18 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:  # Manuel tetikleme için
 
 permissions:
