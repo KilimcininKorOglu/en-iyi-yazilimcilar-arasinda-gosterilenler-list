@@ -7,7 +7,7 @@ Türkiye'nin en iyi yazılımcılarını https://x.com/eniyiyazilimci profilinin
 ## 👥 Takip Edilen Kullanıcılar
 
 
-### 1. Cem Say 
+### Cem Say 
 
 <table>
 <tr>
@@ -30,7 +30,7 @@ Ve 'Geometri' (Atatürk)
 </table>
 
 
-### 2. Oğuzhan Koçaklı, MBA 
+### Oğuzhan Koçaklı, MBA 
 
 <table>
 <tr>
@@ -43,14 +43,14 @@ Ve 'Geometri' (Atatürk)
 
 GenAI Enthusiast | VibeCoder | #AI #Gaming #Blockchain | ex. PMP, PO of many mobile apps and games | 📧: oguzhankocakli@gmail.com
 
-📍 İstanbul, Türkiye | 👥 143.002 takipçi | 🔗 943 takip | 🌐 [Website](https://t.co/TBIeAqhhj6) | 💼 Entrepreneur
+📍 İstanbul, Türkiye | 👥 143.003 takipçi | 🔗 943 takip | 🌐 [Website](https://t.co/TBIeAqhhj6) | 💼 Entrepreneur
 
 </td>
 </tr>
 </table>
 
 
-### 3. fatih kadir akın 
+### fatih kadir akın 
 
 <table>
 <tr>
@@ -63,14 +63,14 @@ GenAI Enthusiast | VibeCoder | #AI #Gaming #Blockchain | ex. PMP, PO of many mob
 
 happy dad • vibecoder • devrel @teknasyontech • @github star • @windsurf ambassador • wrote books • entrepreneμr (2 exits) • https://t.co/Le9eGTUGkE • https://t.co/XH7MQYlxt8 • en/tr
 
-📍 universe | 👥 95.124 takipçi | 🔗 2.504 takip | 🌐 [Website](https://t.co/WaQTO4HV46) | 💼 Creator
+📍 universe | 👥 95.126 takipçi | 🔗 2.504 takip | 🌐 [Website](https://t.co/WaQTO4HV46) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 4. Harun CAN 
+### Harun CAN 
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ Oyuncu, seslendirme sanatçısı, müzik yakıtı... ¨Korkuluk // Bir Hayvan Ya
 </table>
 
 
-### 5. onur ozcan 
+### onur ozcan 
 
 <table>
 <tr>
@@ -103,14 +103,14 @@ Oyuncu, seslendirme sanatçısı, müzik yakıtı... ¨Korkuluk // Bir Hayvan Ya
 
 growth at @wiroai | indie maker for 10+ years. growth marketing consultant by day, ai-assisted product builder by night. generalist/flâneur. tweeps in en/tr.
 
-📍 Istanbul, Turkey | 👥 56.153 takipçi | 🔗 1.330 takip | 💼 Creator
+📍 Istanbul, Turkey | 👥 56.152 takipçi | 🔗 1.330 takip | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 6. Furkan Kılıç 
+### Furkan Kılıç 
 
 <table>
 <tr>
@@ -123,14 +123,14 @@ growth at @wiroai | indie maker for 10+ years. growth marketing consultant by da
 
 co-founder @EchoStudioHQ • building products @furkanbuilds • workplaces #furkanworks • contributor @acikyazilimagi • ADHD • ✉️ hi@furkankilic.dev
 
-📍 Konum belirtilmemiş | 👥 48.432 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 48.433 takipçi | 🔗 1.047 takip | 🌐 [Website](https://t.co/1s3hfOV4oX) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 7. Bora KAŞMER 
+### Bora KAŞMER 
 
 <table>
 <tr>
@@ -143,14 +143,14 @@ co-founder @EchoStudioHQ • building products @furkanbuilds • workplaces #fur
 
 I have been coding since 1993. I am computer and civil engineer. Microsoft #MVP. Software Architect. Ride motorcycle. Love Games. Married and have two daughters
 
-📍 İstanbul/Turkey | 👥 44.034 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
+📍 İstanbul/Turkey | 👥 44.032 takipçi | 🔗 846 takip | 🌐 [Website](https://t.co/BbOUEVTLNx) | 💼 Science & Technology
 
 </td>
 </tr>
 </table>
 
 
-### 8. Emre Savcı 
+### Emre Savcı 
 
 <table>
 <tr>
@@ -170,7 +170,7 @@ Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Ev
 </table>
 
 
-### 9. ./Altuğ 
+### ./Altuğ 
 
 <table>
 <tr>
@@ -183,14 +183,14 @@ Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Ev
 
 Data Center & Cloud Product Manager & Solution Architect / Electrical & Electronics Engineer • MBA • MIS • Lifelong Learner • Altug as a Service ☁️ • TA2TUU
 
-📍 Ankara | 👥 21.472 takipçi | 🔗 4.945 takip | 💼 Cloud Services & Solutions
+📍 Ankara | 👥 21.473 takipçi | 🔗 4.945 takip | 💼 Cloud Services & Solutions
 
 </td>
 </tr>
 </table>
 
 
-### 10. Doğan Dağdelen 
+### Doğan Dağdelen 
 
 <table>
 <tr>
@@ -204,14 +204,14 @@ Data Center & Cloud Product Manager & Solution Architect / Electrical & Electron
 Off, on, fix.
 (doda)
 
-📍 Esenyurt, İstanbul | 👥 19.361 takipçi | 🔗 17.170 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
+📍 Esenyurt, İstanbul | 👥 19.363 takipçi | 🔗 17.170 takip | 🌐 [Website](https://t.co/Cb2dIel0Ng)
 
 </td>
 </tr>
 </table>
 
 
-### 11. Eser Özvataf | SW³ 
+### Eser Özvataf | SW³ 
 
 <table>
 <tr>
@@ -224,14 +224,14 @@ Off, on, fix.
 
 swe, gönüllü @ @acikyazilimagi, fellow @ @tfashionai | ingilizce hesabım: @eser
 
-📍 YouTube    → | 👥 19.360 takipçi | 🔗 2.804 takip | 🌐 [Website](https://t.co/4cyW1vafw6) | 💼 Creator
+📍 YouTube    → | 👥 19.361 takipçi | 🔗 2.804 takip | 🌐 [Website](https://t.co/4cyW1vafw6) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 12. Arif 
+### Arif 
 
 <table>
 <tr>
@@ -251,7 +251,7 @@ CTO at KARDEŞLER YAZ. BİL. İŞL. SAN. LTD. part time Kumarhane Güvenlik Şef
 </table>
 
 
-### 13. Yusuf Demirci 
+### Yusuf Demirci 
 
 <table>
 <tr>
@@ -266,14 +266,14 @@ Founder of @nefariusapps & @icommunitycomtr,
 
 Builds software products.
 
-📍 Istanbul, Turkey | 👥 18.879 takipçi | 🔗 834 takip | 🌐 [Website](https://t.co/kDxkSlYQxG) | 💼 Creator
+📍 Istanbul, Turkey | 👥 18.880 takipçi | 🔗 834 takip | 🌐 [Website](https://t.co/kDxkSlYQxG) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 14. HSVSphere 
+### HSVSphere 
 
 <table>
 <tr>
@@ -296,7 +296,7 @@ Unwavering in its stances and might.
 </table>
 
 
-### 15. Elif Bilge 
+### Elif Bilge 
 
 <table>
 <tr>
@@ -309,14 +309,14 @@ Unwavering in its stances and might.
 
 iOS dev @ TurkishTechnology | cute apps & curious mind
 
-📍 Konum belirtilmemiş | 👥 12.739 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
+📍 Konum belirtilmemiş | 👥 12.738 takipçi | 🔗 1.259 takip | 🌐 [Website](https://t.co/RtqQKDawxA) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 16. Kerem Erkan 
+### Kerem Erkan 
 
 <table>
 <tr>
@@ -336,7 +336,7 @@ Developer of @Qrafter® / @Junkman_app / @Begone_app / PSWD
 </table>
 
 
-### 17. batuhan 
+### batuhan 
 
 <table>
 <tr>
@@ -356,7 +356,7 @@ chief of staff @beeper at @automattic, high functioning idiot, turkish 🇹🇷
 </table>
 
 
-### 18. Arda Balkan 
+### Arda Balkan 
 
 <table>
 <tr>
@@ -376,7 +376,7 @@ Yazılımcı, Amatör İHA Pilotu, Ahşap Oymacı, Ziraat Mühendisi @Weather4Fl
 </table>
 
 
-### 19. Ersin KOÇ 
+### Ersin KOÇ 
 
 <table>
 <tr>
@@ -396,7 +396,7 @@ Entrepreneur, Software Developer, Open Source Lover, Honorary President of the E
 </table>
 
 
-### 20. fatih 
+### fatih 
 
 <table>
 <tr>
@@ -416,7 +416,7 @@ solutions architect & software engineer. i love simplifying things.
 </table>
 
 
-### 21. Enes Kırdemir ✪ 
+### Enes Kırdemir ✪ 
 
 <table>
 <tr>
@@ -436,7 +436,7 @@ Ui Designer I Ux Researcher I FrontEnd Developer alptekinenes@gmail.com
 </table>
 
 
-### 22. Ayşe Aktağ 
+### Ayşe Aktağ 
 
 <table>
 <tr>
@@ -449,14 +449,14 @@ Ui Designer I Ux Researcher I FrontEnd Developer alptekinenes@gmail.com
 
 Cyber Security Specialist, activist and mostly cat servant..🪿
 
-📍 Konum belirtilmemiş | 👥 6.326 takipçi | 🔗 2.074 takip | 🌐 [Website](https://t.co/gg1Em4kT92)
+📍 Konum belirtilmemiş | 👥 6.324 takipçi | 🔗 2.071 takip | 🌐 [Website](https://t.co/gg1Em4kT92)
 
 </td>
 </tr>
 </table>
 
 
-### 23. Emrah Samdan 
+### Emrah Samdan 
 
 <table>
 <tr>
@@ -476,7 +476,7 @@ Product @edge_delta | Co-Founder @amptdev | AWS Serverless Hero
 </table>
 
 
-### 24. Rahmi Vidinlioğlu 
+### Rahmi Vidinlioğlu 
 
 <table>
 <tr>
@@ -497,7 +497,7 @@ Web Developer, SEO Specialist, Şair, Yazar
 </table>
 
 
-### 25. Metin Aksu 
+### Metin Aksu 
 
 <table>
 <tr>
@@ -519,7 +519,7 @@ Web Developer, SEO Specialist, Şair, Yazar
 </table>
 
 
-### 26. 🅲🅰🅽 
+### 🅲🅰🅽 
 
 <table>
 <tr>
@@ -539,7 +539,7 @@ Web Developer, SEO Specialist, Şair, Yazar
 </table>
 
 
-### 27. Mihriban 
+### Mihriban 
 
 <table>
 <tr>
@@ -559,7 +559,7 @@ computer engineer | mobile developer 🧟‍♀️
 </table>
 
 
-### 28. Beyza D. 
+### Beyza D. 
 
 <table>
 <tr>
@@ -579,7 +579,7 @@ Sadece ceng bi de dijital günlük
 </table>
 
 
-### 29. ege 
+### ege 
 
 <table>
 <tr>
@@ -602,7 +602,7 @@ python sevdalilari dernegi 🐍
 </table>
 
 
-### 30. Kübra 
+### Kübra 
 
 <table>
 <tr>
@@ -615,14 +615,14 @@ python sevdalilari dernegi 🐍
 
 🧑‍💻 Mobile Developer
 
-📍 Konum belirtilmemiş | 👥 4.214 takipçi | 🔗 1.809 takip
+📍 Konum belirtilmemiş | 👥 4.213 takipçi | 🔗 1.809 takip
 
 </td>
 </tr>
 </table>
 
 
-### 31. Cemre 
+### Cemre 
 
 <table>
 <tr>
@@ -642,7 +642,7 @@ Beşiktaş JK Congress Member 🦅 | Architect Software Engineer ⌨️ | Kâfi�
 </table>
 
 
-### 32. irem |⭐️ 
+### irem |⭐️ 
 
 <table>
 <tr>
@@ -662,7 +662,7 @@ Beşiktaş JK Congress Member 🦅 | Architect Software Engineer ⌨️ | Kâfi�
 </table>
 
 
-### 33. Eray 
+### Eray 
 
 <table>
 <tr>
@@ -682,7 +682,7 @@ funior dev | building dreams with code | legal alien in the matrix | less bugs, 
 </table>
 
 
-### 34. wojak.enginar 
+### wojak.enginar 
 
 <table>
 <tr>
@@ -702,7 +702,7 @@ Lifelong Learner
 </table>
 
 
-### 35. kilimcinin kör oğlu 
+### kilimcinin kör oğlu 
 
 <table>
 <tr>
@@ -715,14 +715,14 @@ Lifelong Learner
 
 beyefendilik, yazılım, sistem yönetimi falan filan
 
-📍 Pattaya City | 👥 3.186 takipçi | 🔗 2.488 takip
+📍 Pattaya City | 👥 3.187 takipçi | 🔗 2.488 takip
 
 </td>
 </tr>
 </table>
 
 
-### 36. Eren 
+### Eren 
 
 <table>
 <tr>
@@ -742,7 +742,7 @@ Programmer | Molecular Biologist
 </table>
 
 
-### 37. Alice アリス 
+### Alice アリス 
 
 <table>
 <tr>
@@ -762,7 +762,7 @@ Computer & Software Engineer | Hardware & Software Content Creator | Delegate of
 </table>
 
 
-### 38. ODEL 🔺 
+### ODEL 🔺 
 
 <table>
 <tr>
@@ -783,7 +783,7 @@ Computer & Software Engineer | Hardware & Software Content Creator | Delegate of
 </table>
 
 
-### 39. Mustafa Kaçmaz 
+### Mustafa Kaçmaz 
 
 <table>
 <tr>
@@ -803,7 +803,7 @@ Freelance, Fullstack php developer…Self-improving… @zalando
 </table>
 
 
-### 40. ilke 🦋 
+### ilke 🦋 
 
 <table>
 <tr>
@@ -823,7 +823,7 @@ SWE AI/ML
 </table>
 
 
-### 41. Hatice 
+### Hatice 
 
 <table>
 <tr>
@@ -843,7 +843,7 @@ married🤍 Java Bakanı ︱Senior Software Developer
 </table>
 
 
-### 42. Rahmi Dalıcı 
+### Rahmi Dalıcı 
 
 <table>
 <tr>
@@ -866,7 +866,7 @@ https://t.co/i7bv0eorIn
 </table>
 
 
-### 43. enes 
+### enes 
 
 <table>
 <tr>
@@ -886,7 +886,7 @@ Fullstack Engineer • iOS App Developer ( SwiftUI )  • @suncadecom
 </table>
 
 
-### 44. Sena Yakut 
+### Sena Yakut 
 
 <table>
 <tr>
@@ -906,7 +906,7 @@ Fullstack Engineer • iOS App Developer ( SwiftUI )  • @suncadecom
 </table>
 
 
-### 45. Furkan Baytekin 
+### Furkan Baytekin 
 
 <table>
 <tr>
@@ -919,14 +919,14 @@ Fullstack Engineer • iOS App Developer ( SwiftUI )  • @suncadecom
 
 🧙🏼‍♂️ Open Sourcerer 🐧 Linux Enthusiast 🎸 Amateur Musician 💻 Full Stack Developer 🎮 Game Developer 🌝 Moonlighter 📖 Bookworm
 
-📍 Ankara, Türkiye | 👥 2.044 takipçi | 🔗 1.194 takip | 🌐 [Website](https://t.co/V3MznsiJ8P)
+📍 Ankara, Türkiye | 👥 2.043 takipçi | 🔗 1.193 takip | 🌐 [Website](https://t.co/V3MznsiJ8P)
 
 </td>
 </tr>
 </table>
 
 
-### 46. Esra 
+### Esra 
 
 <table>
 <tr>
@@ -946,7 +946,7 @@ developer👩🏻‍💻✨
 </table>
 
 
-### 47. Kemal 
+### Kemal 
 
 <table>
 <tr>
@@ -959,14 +959,14 @@ developer👩🏻‍💻✨
 
 co-founder @involopstudio ^ insan ^ hayvansever
 
-📍 Türkiye | 👥 1.791 takipçi | 🔗 600 takip | 🌐 [Website](https://t.co/kt5CIHjCdZ) | 💼 Creator
+📍 Türkiye | 👥 1.790 takipçi | 🔗 600 takip | 🌐 [Website](https://t.co/kt5CIHjCdZ) | 💼 Creator
 
 </td>
 </tr>
 </table>
 
 
-### 48. ۟ 
+### ۟ 
 
 <table>
 <tr>
@@ -986,7 +986,7 @@ yazılım film yemek falan bir şeyler işte ya | TR/EN | CEng’21 • RTS’22
 </table>
 
 
-### 49. Anıl Fidan 
+### Anıl Fidan 
 
 <table>
 <tr>
@@ -1006,7 +1006,7 @@ WordPress, Part-Time İnşaat Ustası
 </table>
 
 
-### 50. agnes.dev 
+### agnes.dev 
 
 <table>
 <tr>
@@ -1026,7 +1026,7 @@ Web Developer | From pixels to databases | Passionate about secure, scalable app
 </table>
 
 
-### 51. Muhittin Kaplan 
+### Muhittin Kaplan 
 
 <table>
 <tr>
@@ -1049,7 +1049,7 @@ TB2TTY/Akut/MEB Motosiklet Güvenli Ve İleri Sürüş Teknikleri Eğt.
 </table>
 
 
-### 52. Orhan Erbas 
+### Orhan Erbas 
 
 <table>
 <tr>
@@ -1069,7 +1069,7 @@ Software Engineer - iOS Dev - Makes mobile apps. 💻📲
 </table>
 
 
-### 53. Nejat Can Ünlü 
+### Nejat Can Ünlü 
 
 <table>
 <tr>
@@ -1089,7 +1089,7 @@ Sr. SWE with Frontend Focus, musician, snowboarder, dancer, traveler. Jack of al
 </table>
 
 
-### 54. Coş 🦝 
+### Coş 🦝 
 
 <table>
 <tr>
@@ -1109,7 +1109,7 @@ chaotic neutral court wizard ♦️ art & personal
 </table>
 
 
-### 55. Ayberk 
+### Ayberk 
 
 <table>
 <tr>
@@ -1123,14 +1123,14 @@ chaotic neutral court wizard ♦️ art & personal
 Software Developer @Trendyol
 Listens Tool, Creates Tools
 
-📍 Eskişehir | 👥 1.242 takipçi | 🔗 418 takip
+📍 Eskişehir | 👥 1.243 takipçi | 🔗 418 takip
 
 </td>
 </tr>
 </table>
 
 
-### 56. notDepresseDeveloper 
+### notDepresseDeveloper 
 
 <table>
 <tr>
@@ -1150,7 +1150,7 @@ QA Engineer 👩‍💻 Streamer 🎤 Python Dev 🐍 Opensource Enthusiast 🐧
 </table>
 
 
-### 57. Æ 
+### Æ 
 
 <table>
 <tr>
@@ -1170,7 +1170,7 @@ _Açıklama yok_
 </table>
 
 
-### 58. Muhammet Işık 
+### Muhammet Işık 
 
 <table>
 <tr>
@@ -1190,7 +1190,7 @@ Mahmet ✲ You have no cards! ✲ İnsan olduğunu unutan başkasının kusuruyl
 </table>
 
 
-### 59. Samet Mütevelli 🦉 
+### Samet Mütevelli 🦉 
 
 <table>
 <tr>
@@ -1210,7 +1210,7 @@ software engineer at Google. I can’t be serious, it’s a disease and insuranc
 </table>
 
 
-### 60. Halit YEŞİL 🔅 
+### Halit YEŞİL 🔅 
 
 <table>
 <tr>
@@ -1232,7 +1232,7 @@ https://t.co/0EhSZY5llj
 </table>
 
 
-### 61. Büşra Inceler 
+### Büşra Inceler 
 
 <table>
 <tr>
@@ -1252,7 +1252,7 @@ Principal PHP Büyücüsü 🎻 YouTube: https://t.co/Mxd79pnLvp
 </table>
 
 
-### 62. Temidaradev 
+### Temidaradev 
 
 <table>
 <tr>
@@ -1272,7 +1272,7 @@ Principal PHP Büyücüsü 🎻 YouTube: https://t.co/Mxd79pnLvp
 </table>
 
 
-### 63. Mustafa BÜKÜLMEZ 
+### Mustafa BÜKÜLMEZ 
 
 <table>
 <tr>
@@ -1295,7 +1295,7 @@ SQL, C#, PHP, Wordpress
 </table>
 
 
-### 64. Aygün AKYILDIZ 
+### Aygün AKYILDIZ 
 
 <table>
 <tr>
@@ -1308,14 +1308,14 @@ SQL, C#, PHP, Wordpress
 
 Nkü - Computer Programming Istanbul University MIS 2/4 - Software Developer
 
-📍 Konum belirtilmemiş | 👥 626 takipçi | 🔗 755 takip | 🌐 [Website](https://t.co/jddBR6kGeS)
+📍 Konum belirtilmemiş | 👥 630 takipçi | 🔗 755 takip | 🌐 [Website](https://t.co/jddBR6kGeS)
 
 </td>
 </tr>
 </table>
 
 
-### 65. Ertuğrul (zamdanadam) 
+### Ertuğrul (zamdanadam) 
 
 <table>
 <tr>
@@ -1335,7 +1335,7 @@ Nkü - Computer Programming Istanbul University MIS 2/4 - Software Developer
 </table>
 
 
-### 66. tahsin sungur 
+### tahsin sungur 
 
 <table>
 <tr>
@@ -1355,7 +1355,7 @@ fr*ntend dev.
 </table>
 
 
-### 67. Görkem Güray 
+### Görkem Güray 
 
 <table>
 <tr>
@@ -1375,7 +1375,7 @@ Industrial Automation Software Developer | PLC | HMI | Motion Control @OmronTR &
 </table>
 
 
-### 68. burak 🇹🇷🐧💻 
+### burak 🇹🇷🐧💻 
 
 <table>
 <tr>
@@ -1396,7 +1396,7 @@ react and java developer / linux enthusiast
 </table>
 
 
-### 69. Kırboğa 
+### Kırboğa 
 
 <table>
 <tr>
@@ -1416,7 +1416,7 @@ Software Engineer | Playmaker x2
 </table>
 
 
-### 70. Onurcan 
+### Onurcan 
 
 <table>
 <tr>
@@ -1436,7 +1436,7 @@ Software Engineer | Playmaker x2
 </table>
 
 
-### 71. fatih 
+### fatih 
 
 <table>
 <tr>
@@ -1456,7 +1456,7 @@ creator of @kaosdevcom 🟠
 </table>
 
 
-### 72. Öztürk 
+### Öztürk 
 
 <table>
 <tr>
@@ -1476,7 +1476,7 @@ Software Developer
 </table>
 
 
-### 73. AhmetChain 🖇 
+### AhmetChain 🖇 
 
 <table>
 <tr>
@@ -1496,7 +1496,7 @@ Software Developer  | 🐪
 </table>
 
 
-### 74. Uğur Toprakdeviren 
+### Uğur Toprakdeviren 
 
 <table>
 <tr>
@@ -1516,7 +1516,7 @@ _Açıklama yok_
 </table>
 
 
-### 75. Evren Bal 
+### Evren Bal 
 
 <table>
 <tr>
@@ -1539,7 +1539,7 @@ _Açıklama yok_
 </table>
 
 
-### 76. Vedat Özgürel aka. Jdm Spirit Turkey 
+### Vedat Özgürel aka. Jdm Spirit Turkey 
 
 <table>
 <tr>
@@ -1559,7 +1559,7 @@ SJW miyim bilmiyorum. Haklı olduğum şeyi savunurum.
 </table>
 
 
-### 77. @batuhan ama türkçe 
+### @batuhan ama türkçe 
 
 <table>
 <tr>
@@ -1579,7 +1579,7 @@ genelde şuradayım: @batuhan
 </table>
 
 
-### 78. Doğukan 🛸 
+### Doğukan 🛸 
 
 <table>
 <tr>
@@ -1599,7 +1599,7 @@ Adü•Ceng | Genelde boş yaparım...| Burası benim günlüğüm.   links : ht
 </table>
 
 
-### 79. Halit Ergül 
+### Halit Ergül 
 
 <table>
 <tr>
@@ -1619,7 +1619,7 @@ Adü•Ceng | Genelde boş yaparım...| Burası benim günlüğüm.   links : ht
 </table>
 
 
-### 80. Ayhan Sipahi 
+### Ayhan Sipahi 
 
 <table>
 <tr>
@@ -1639,7 +1639,7 @@ TypeScript, Aws, Serverless, React, Leadership -Software Craftsman.
 </table>
 
 
-### 81. phasenull.dev 
+### phasenull.dev 
 
 <table>
 <tr>
@@ -1659,7 +1659,7 @@ kişisel not nefterim, konular hakkındaki kişisel görüşlerim ve arşiv (kı
 </table>
 
 
-### 82. Code a Man 
+### Code a Man 
 
 <table>
 <tr>
@@ -1679,7 +1679,7 @@ Bil. Müh. 4 | Developer
 </table>
 
 
-### 83. Halil MUNGAN 
+### Halil MUNGAN 
 
 <table>
 <tr>
@@ -1699,7 +1699,7 @@ Software Developer | Python, AI, Javascript, Go
 </table>
 
 
-### 84. EREN DEMİRHAN 
+### EREN DEMİRHAN 
 
 <table>
 <tr>
@@ -1719,7 +1719,7 @@ Software Developer
 </table>
 
 
-### 85. Can Arslan 
+### Can Arslan 
 
 <table>
 <tr>
@@ -1739,7 +1739,7 @@ Entrepreneur, developer, and futurist.  Founder of @greenboxai
 </table>
 
 
-### 86. 0x1F ⚜️ 
+### 0x1F ⚜️ 
 
 <table>
 <tr>
@@ -1759,7 +1759,7 @@ Entrepreneur, developer, and futurist.  Founder of @greenboxai
 </table>
 
 
-### 87. Programmer 
+### Programmer 
 
 <table>
 <tr>
@@ -1779,7 +1779,7 @@ Yazılım gündem falan işte yav ne var bio okumaya önemli olan yapılan iş
 </table>
 
 
-### 88. Ya bi dur 
+### Ya bi dur 
 
 <table>
 <tr>
@@ -1799,7 +1799,7 @@ _Açıklama yok_
 </table>
 
 
-### 89. alp 
+### alp 
 
 <table>
 <tr>
@@ -1819,7 +1819,7 @@ Full Stack Dev. | SOC Analyst | AI / AI Agent Architect
 </table>
 
 
-### 90. Ömer 
+### Ömer 
 
 <table>
 <tr>
@@ -1852,6 +1852,6 @@ Bu liste **GitHub Actions** ile günde 2 kez (09:00 ve 21:00 TSI) otomatik olara
 **Powered by GitHub Actions** 🚀
 
 _Toplam 90 kullanıcı_
-_Son güncelleme: 24 Kasım 2025 13:23_
+_Son güncelleme: 24 Kasım 2025 13:37_
 
 </div>
