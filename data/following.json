@@ -1,0 +1,722 @@
+{
+  "updated_at": "2025-11-24T08:34:47.804Z",
+  "total_count": 50,
+  "users": [
+    {
+      "id": "2784616519",
+      "name": "Görkem Güray",
+      "screen_name": "grkmgry",
+      "description": "Industrial Automation Software Developer | PLC | HMI | Motion Control @OmronTR & Sysmac Studio",
+      "profile_image": "https://pbs.twimg.com/profile_images/1880912786311524352/m1xIQCOy_normal.jpg",
+      "followers_count": 372,
+      "following_count": 2266,
+      "location": "İstanbul, Türkiye",
+      "url": "https://t.co/sCF7EZ28nr",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Automation Control Company"
+      }
+    },
+    {
+      "id": "2185273748",
+      "name": "ODEL 🔺",
+      "screen_name": "odelioglu",
+      "description": "👨‍💻 Full Stack Developer & Mobile App Creator\n🚀 Founder of @AppalizeDev – ASO Tools for App Growth",
+      "profile_image": "https://pbs.twimg.com/profile_images/1970064121644150784/2Z-HGxPb_normal.jpg",
+      "followers_count": 3039,
+      "following_count": 485,
+      "location": "Türkiye",
+      "url": "https://t.co/Ljsma3gNOm",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Project Manager"
+      }
+    },
+    {
+      "id": "1642652898088632322",
+      "name": "Kırboğa",
+      "screen_name": "mskirbogaa",
+      "description": "Software Engineer | Playmaker x2",
+      "profile_image": "https://pbs.twimg.com/profile_images/1989806435216379904/Hd7RJ9BW_normal.jpg",
+      "followers_count": 287,
+      "following_count": 371,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "991852253035233280",
+      "name": "Halil MUNGAN",
+      "screen_name": "mhalilmungan",
+      "description": "Software Developer | Python, AI, Javascript, Go",
+      "profile_image": "https://pbs.twimg.com/profile_images/1723469238524891136/Jjja_5H6_normal.jpg",
+      "followers_count": 120,
+      "following_count": 199,
+      "location": "Rostov-na-Donu, Russia",
+      "url": "https://t.co/uRCRaWYBAO",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "278711571",
+      "name": "Vedat Özgürel aka. Jdm Spirit Turkey",
+      "screen_name": "vozgurel",
+      "description": "SJW miyim bilmiyorum. Haklı olduğum şeyi savunurum.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1919275717713391616/S5ptKx69_normal.jpg",
+      "followers_count": 221,
+      "following_count": 285,
+      "location": "İstanbul",
+      "url": "https://t.co/iEis7D2YH7",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "15624515",
+      "name": "Ersin KOÇ",
+      "screen_name": "ersinkoc",
+      "description": "Entrepreneur, Software Developer, Open Source Lover, Honorary President of the Estonian Association of Atheists Expatriates 🇹🇷🇪🇪",
+      "profile_image": "https://pbs.twimg.com/profile_images/1992685489602572288/7wtSpoJi_normal.jpg",
+      "followers_count": 7427,
+      "following_count": 808,
+      "location": "Tallinn 🇪🇪",
+      "url": "https://t.co/3Caz6Ochgw",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Entrepreneur"
+      }
+    },
+    {
+      "id": "904771259237638144",
+      "name": "Mihriban",
+      "screen_name": "bennmihri",
+      "description": "computer engineer | mobile developer 🧟‍♀️",
+      "profile_image": "https://pbs.twimg.com/profile_images/1916805286636969984/eK8elk33_normal.jpg",
+      "followers_count": 5372,
+      "following_count": 985,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1200851004750741505",
+      "name": "Arda Balkan",
+      "screen_name": "ardabalkandev",
+      "description": "Yazılımcı, Amatör İHA Pilotu, Ahşap Oymacı, Ziraat Mühendisi @Weather4Fly",
+      "profile_image": "https://pbs.twimg.com/profile_images/1912931213485961216/FJGdU73z_normal.jpg",
+      "followers_count": 7746,
+      "following_count": 4008,
+      "location": "Auckland",
+      "url": "https://t.co/2WCvHRc7IA",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "95764631",
+      "name": "Harun CAN",
+      "screen_name": "HRNCN",
+      "description": "Oyuncu, seslendirme sanatçısı, müzik yakıtı... ¨Korkuluk // Bir Hayvan Yaratmak (2013)¨",
+      "profile_image": "https://pbs.twimg.com/profile_images/378800000852931994/2234ba70ded7863990628fc0267f7a2b_normal.jpeg",
+      "followers_count": 80480,
+      "following_count": 636,
+      "location": "İstanbul",
+      "url": "https://t.co/xkhqAjmo31",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Actor"
+      }
+    },
+    {
+      "id": "1255117646",
+      "name": "Coş 🦝",
+      "screen_name": "dimaetor",
+      "description": "chaotic neutral court wizard ♦️ art & personal",
+      "profile_image": "https://pbs.twimg.com/profile_images/1992685405934661632/n2YOycjA_normal.jpg",
+      "followers_count": 1304,
+      "following_count": 810,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "80126489",
+      "name": "🅲🅰🅽",
+      "screen_name": "canaksoy",
+      "description": "👨🏻‍💻 multi-CTO, app & game dev, serial entrepreneur, angel investor. @RecontactGames @mondayhero_io @tamyerinet @mobiRunco @SulubeynAppz @voice4ai 🇹🇷🇲🇪",
+      "profile_image": "https://pbs.twimg.com/profile_images/1524161017609138177/igS5LsT7_normal.jpg",
+      "followers_count": 5417,
+      "following_count": 3188,
+      "location": "İstanbul, Türkiye",
+      "url": "https://t.co/Sn8uGunotw",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Entrepreneur"
+      }
+    },
+    {
+      "id": "854774298",
+      "name": "Emre Savcı",
+      "screen_name": "mstrYoda_",
+      "description": "Tech. Lead. | MUG Lead @mongodb | ex. Ambassador @Couchbase | Go & Kubernetes Evangelist | Open source contributor | Organizer @GoTurkiye_",
+      "profile_image": "https://pbs.twimg.com/profile_images/1940022709745786881/fw7qkkN0_normal.jpg",
+      "followers_count": 26411,
+      "following_count": 545,
+      "location": "",
+      "url": "https://t.co/rCBmdLwcBV",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1692639776321519616",
+      "name": "Onurcan",
+      "screen_name": "onurcangenc1999",
+      "description": "🎓 @ctisbilkent student at Bilkent University | Cybersecurity Intern at @Deloitte | AI Red Teaming | INTJ-A",
+      "profile_image": "https://pbs.twimg.com/profile_images/1991227322779729921/Ff6HrvP0_normal.jpg",
+      "followers_count": 283,
+      "following_count": 800,
+      "location": "SA, SB, C binası",
+      "url": "https://t.co/Bg1zEFgQYO",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1050794459468877824",
+      "name": "Ömer",
+      "screen_name": "omerdemirovski",
+      "description": "Software Developer - Uykusuz Developer.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1991214511748009984/dHxa3zKV_normal.jpg",
+      "followers_count": 7,
+      "following_count": 3,
+      "location": "Moscow, Russia",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1025395672835678208",
+      "name": "agnes.dev",
+      "screen_name": "agnes0912491",
+      "description": "Web Developer | From pixels to databases | Passionate about secure, scalable apps | Explorer of the digital world",
+      "profile_image": "https://pbs.twimg.com/profile_images/1965517003986198528/tZGIdfvN_normal.jpg",
+      "followers_count": 1627,
+      "following_count": 1046,
+      "location": "",
+      "url": "https://t.co/Lfwa0t3DYX",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1182041361496846336",
+      "name": "Muhittin Kaplan",
+      "screen_name": "hFF0001Kaplan",
+      "description": "'''Fabrika Hatası'''\nElectronics/MCU/Software/Knife/Weapon/EXP/Droner/\nvlogger-Yolsakini/\nTB2TTY/Akut/MEB Motosiklet Güvenli Ve İleri Sürüş Teknikleri Eğt.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1979206446173634560/GC_OXg0G_normal.jpg",
+      "followers_count": 1456,
+      "following_count": 830,
+      "location": "",
+      "url": "https://t.co/hB4Q0oQTET",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "2470749889",
+      "name": "Rahmi Dalıcı",
+      "screen_name": "rahmidalici",
+      "description": "@dikeyeksen #Bilişim, #Teknoloji, #Mühendislik ve #Programlama Kitapları Yayın Yönetmeni | Yayın Editörü\n\nhttps://t.co/aZWPZrN8VU\nhttps://t.co/i7bv0eorIn",
+      "profile_image": "https://pbs.twimg.com/profile_images/1719681282953670656/ybCg7miU_normal.jpg",
+      "followers_count": 2349,
+      "following_count": 586,
+      "location": "İstanbul, Türkiye",
+      "url": "https://t.co/YeIBNLnc8z",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "1871991828179808256",
+      "name": "Ayhan Sipahi",
+      "screen_name": "_ayhansipahi",
+      "description": "TypeScript, Aws, Serverless, React, Leadership -Software Craftsman.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1992633664132231168/b5blImc-_normal.jpg",
+      "followers_count": 150,
+      "following_count": 264,
+      "location": "localhost:3000",
+      "url": "https://t.co/5pUfylAiEq",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1287379526801121282",
+      "name": "Cemre",
+      "screen_name": "CemreGuner",
+      "description": "Beşiktaş JK Congress Member 🦅 | Architect Software Engineer ⌨️ | Kâfi… #Bambaşka",
+      "profile_image": "https://pbs.twimg.com/profile_images/1960443592859607040/kqEH2IXY_normal.jpg",
+      "followers_count": 4172,
+      "following_count": 895,
+      "location": "İstanbul, Türkiye",
+      "url": "https://t.co/69sSd9HzI0",
+      "verified": false,
+      "professional": {
+        "type": "Business",
+        "category": ""
+      }
+    },
+    {
+      "id": "1508931987431739395",
+      "name": "Aygün AKYILDIZ",
+      "screen_name": "aygundev",
+      "description": "Nkü - Computer Programming Istanbul University MIS 2/4 - Software Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1992486027466829824/lB4msPWg_normal.jpg",
+      "followers_count": 614,
+      "following_count": 696,
+      "location": "",
+      "url": "https://t.co/jddBR6kGeS",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1292820188564529152",
+      "name": "Eren",
+      "screen_name": "therenn8",
+      "description": "Programmer | Molecular Biologist",
+      "profile_image": "https://pbs.twimg.com/profile_images/1991966499745959936/lzZL9NGb_normal.jpg",
+      "followers_count": 3044,
+      "following_count": 1886,
+      "location": "Türkiye",
+      "url": "https://t.co/TvxZX5Rxd5",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "3075701561",
+      "name": "Emrah Samdan",
+      "screen_name": "emrahsamdan",
+      "description": "Product @edge_delta | Co-Founder @amptdev | AWS Serverless Hero",
+      "profile_image": "https://pbs.twimg.com/profile_images/1813792421601263616/RszkNDre_normal.jpg",
+      "followers_count": 6157,
+      "following_count": 2263,
+      "location": "Seattle, WA",
+      "url": "",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Entrepreneur"
+      }
+    },
+    {
+      "id": "1646977515704000512",
+      "name": "EREN DEMİRHAN",
+      "screen_name": "erndmrhnn",
+      "description": "Software Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1971881696350908416/WPb1ZE3L_normal.jpg",
+      "followers_count": 104,
+      "following_count": 457,
+      "location": "Bursa, Türkiye",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1346030604517826561",
+      "name": "0x1F ⚜️",
+      "screen_name": "DateAnti",
+      "description": "𝘞𝘌 𝘌𝘕𝘝𝘠 𝘕𝘖𝘛𝘏𝘐𝘕𝘎 𝘐𝘕 𝘛𝘏𝘌 𝘞𝘖𝘙𝘓𝘋 | Mobile App Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1988577760969662464/Cc8g1kxd_normal.jpg",
+      "followers_count": 26,
+      "following_count": 158,
+      "location": "Italy",
+      "url": "https://t.co/VzcrxVnkDF",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1025546597495697408",
+      "name": "Öztürk",
+      "screen_name": "Ozturksrnn",
+      "description": "Software Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1931833897932689409/yZeL8EEq_normal.jpg",
+      "followers_count": 268,
+      "following_count": 503,
+      "location": "",
+      "url": "https://t.co/6unjTFjbM9",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "1210441114710355969",
+      "name": "Halit Ergül",
+      "screen_name": "haliterguls",
+      "description": "#php",
+      "profile_image": "https://pbs.twimg.com/profile_images/1685921804752183296/DGUyf0xv_normal.jpg",
+      "followers_count": 152,
+      "following_count": 493,
+      "location": "Denizli, Türkiye",
+      "url": "https://t.co/Nom9hpnH5W",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1690387772102590464",
+      "name": "Code a Man",
+      "screen_name": "code_a_man",
+      "description": "Bil. Müh. 4 | Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1903167468652335108/ytqn2NZx_normal.jpg",
+      "followers_count": 136,
+      "following_count": 148,
+      "location": "",
+      "url": "https://t.co/lCg6u0z1YE",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1825932587585490944",
+      "name": "HSVSphere",
+      "screen_name": "HSVSphere",
+      "description": "A colorful sphere, here to grudge.\nIts opinions will never budge.\nA vibrant orb, with hues so bright,\nUnwavering in its stances and might.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1825935215019069440/xtSZT6Vv_normal.jpg",
+      "followers_count": 16688,
+      "following_count": 995,
+      "location": "The Chromatic Citadel",
+      "url": "https://t.co/kBba3yYc6y",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1113212310993162241",
+      "name": "Eray",
+      "screen_name": "vahsiminimalizm",
+      "description": "funior dev | building dreams with code | legal alien in the matrix | less bugs, more vibes |",
+      "profile_image": "https://pbs.twimg.com/profile_images/1980723651788804096/sgC5AO95_normal.jpg",
+      "followers_count": 3984,
+      "following_count": 3425,
+      "location": "",
+      "url": "https://t.co/67ejXjDZ4Q",
+      "verified": false,
+      "professional": {
+        "type": "Business",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "2574344754",
+      "name": "@batuhan ama türkçe",
+      "screen_name": "batuhanicoz",
+      "description": "genelde şuradayım: @batuhan",
+      "profile_image": "https://pbs.twimg.com/profile_images/1964339529864683520/u2o0wsl8_normal.jpg",
+      "followers_count": 211,
+      "following_count": 33,
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://t.co/BuaLSnlGld",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "874022766353272835",
+      "name": "Æ",
+      "screen_name": "alpererdogandev",
+      "description": "",
+      "profile_image": "https://pbs.twimg.com/profile_images/1929809013190930432/GAOtdq1v_normal.jpg",
+      "followers_count": 1181,
+      "following_count": 1077,
+      "location": "Earth, 39.00°N, 35.00°E",
+      "url": "https://t.co/gONih5Jkdw",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1623532817606119426",
+      "name": "Enes Kırdemir ✪",
+      "screen_name": "aeneskirdemir",
+      "description": "Ui Designer I Ux Researcher I FrontEnd Developer alptekinenes@gmail.com",
+      "profile_image": "https://pbs.twimg.com/profile_images/1682391193722683392/Swt4M8sd_normal.jpg",
+      "followers_count": 7185,
+      "following_count": 5896,
+      "location": "Ankara, Türkiye",
+      "url": "https://t.co/8otMuhV97x",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "UI Designer"
+      }
+    },
+    {
+      "id": "1513988354718711811",
+      "name": "Hatice",
+      "screen_name": "haticeeladagli",
+      "description": "married🤍 Java Bakanı ︱Senior Software Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1979140572444024832/ta7DJp08_normal.jpg",
+      "followers_count": 2548,
+      "following_count": 943,
+      "location": "Kadıköy, İstanbul",
+      "url": "https://t.co/i4YI9Ys5KR",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "1356968892",
+      "name": "Beyza D.",
+      "screen_name": "Renaittre",
+      "description": "Sadece ceng bi de dijital günlük",
+      "profile_image": "https://pbs.twimg.com/profile_images/1851737200775286784/qWQ8gWQK_normal.jpg",
+      "followers_count": 4644,
+      "following_count": 873,
+      "location": "Ankara, Türkiye",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1986296087020478464",
+      "name": "alp",
+      "screen_name": "alpthedev",
+      "description": "Full Stack Dev. | SOC Analyst | AI / AI Agent Architect",
+      "profile_image": "https://pbs.twimg.com/profile_images/1986320856344141824/hAhA2FAq_normal.jpg",
+      "followers_count": 15,
+      "following_count": 64,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "963519909308370945",
+      "name": "fatih",
+      "screen_name": "iammfatihnaziro",
+      "description": "creator of @kaosdevcom 🟠",
+      "profile_image": "https://pbs.twimg.com/profile_images/1990247159745200128/4AzPMAz8_normal.jpg",
+      "followers_count": 276,
+      "following_count": 667,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "1762750852538740736",
+      "name": "Programmer",
+      "screen_name": "Aklimdaoffical",
+      "description": "Yazılım gündem falan işte yav ne var bio okumaya önemli olan yapılan iş",
+      "profile_image": "https://pbs.twimg.com/profile_images/1982906908617871360/AqYInvxa_normal.jpg",
+      "followers_count": 22,
+      "following_count": 16,
+      "location": "",
+      "url": "https://t.co/zPutCavujD",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1313693941615800320",
+      "name": "Anıl Fidan",
+      "screen_name": "anilfiddan",
+      "description": "WordPress, Part-Time İnşaat Ustası",
+      "profile_image": "https://pbs.twimg.com/profile_images/1984707601280450560/lzgO5Ufc_normal.jpg",
+      "followers_count": 1716,
+      "following_count": 812,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Blogger"
+      }
+    },
+    {
+      "id": "571931217",
+      "name": "Kübra",
+      "screen_name": "Kubrapodf",
+      "description": "🧑‍💻 Mobile Developer",
+      "profile_image": "https://pbs.twimg.com/profile_images/1942695574790172672/uGCD2gl1_normal.jpg",
+      "followers_count": 4214,
+      "following_count": 1808,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "3130945257",
+      "name": "Mustafa BÜKÜLMEZ",
+      "screen_name": "BukulmezMustafa",
+      "description": "software, code, idea, life, sharing, blogging, japonca falan /w anime, game, cyberpunk, ai bişiler.\n\nSQL, C#, PHP, Wordpress\n@dijitalortagim",
+      "profile_image": "https://pbs.twimg.com/profile_images/1734380232038105088/8YhC0ePo_normal.jpg",
+      "followers_count": 712,
+      "following_count": 469,
+      "location": "İstanbul-Başakşehir",
+      "url": "https://t.co/qXlyo7LUqj",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "505670972",
+      "name": "Cem Say",
+      "screen_name": "say_cem",
+      "description": "Bilgisayar mühendisliği hocası.\nKitaplar:\n'Yapay Zekâya Giriş', 'En Hakiki Mürşit', 'Yeni Dünya, Yeni Ağ', '50 Soruda Yapay Zekâ'.\nVe 'Geometri' (Atatürk)",
+      "profile_image": "https://pbs.twimg.com/profile_images/1452217991479894028/eKwYTt7m_normal.jpg",
+      "followers_count": 370728,
+      "following_count": 1154,
+      "location": "",
+      "url": "https://t.co/093L2xYqyv",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "2884076231",
+      "name": "Alice アリス",
+      "screen_name": "busralcinar",
+      "description": "Computer & Software Engineer | Hardware & Software Content Creator | Delegate of 立正大学 ⛩️ | Hyperpolyglot (9 Langs) | Founder of https://t.co/cIaDJU7ouI",
+      "profile_image": "https://pbs.twimg.com/profile_images/1875559031344955393/m3ih3qZq_normal.jpg",
+      "followers_count": 3043,
+      "following_count": 651,
+      "location": "www.instagram.com/jpkokeshi",
+      "url": "https://t.co/B6cMMi90OH",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Software developer/Programmer/Software engineer"
+      }
+    },
+    {
+      "id": "200195963",
+      "name": "ege",
+      "screen_name": "mrboyoz_",
+      "description": "yazilim muhendisi\nodtu bilgisayar msc (terk)\nhacettepe bilgisayar bsc\npython sevdalilari dernegi 🐍",
+      "profile_image": "https://pbs.twimg.com/profile_images/1610281363575394304/DtSYRZnA_normal.jpg",
+      "followers_count": 4393,
+      "following_count": 539,
+      "location": "Amsterdam, The Netherlands",
+      "url": "",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": "Science & Technology"
+      }
+    },
+    {
+      "id": "14433686",
+      "name": "batuhan",
+      "screen_name": "batuhan",
+      "description": "chief of staff @beeper at @automattic, high functioning idiot, turkish 🇹🇷",
+      "profile_image": "https://pbs.twimg.com/profile_images/1654490285546651655/C0qgsbhL_normal.jpg",
+      "followers_count": 8793,
+      "following_count": 2237,
+      "location": "Amsterdam, The Netherlands",
+      "url": "https://t.co/hbtkc4CgZf",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "1985300656371253250",
+      "name": ".env",
+      "screen_name": "_disconnectuss",
+      "description": "party was over ⚖️👩‍💻",
+      "profile_image": "https://pbs.twimg.com/profile_images/1987605900371099648/NgGufr3l_normal.jpg",
+      "followers_count": 147,
+      "following_count": 141,
+      "location": "",
+      "url": "",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1717089933809082368",
+      "name": "Sena Yakut",
+      "screen_name": "sena_yakutt",
+      "description": "☁️🛡️🚀 AWS Security Hero | ❤️ Securing the future. | Organizer @CloudTurkiye",
+      "profile_image": "https://pbs.twimg.com/profile_images/1875493589926449152/oSPvGCri_normal.jpg",
+      "followers_count": 2161,
+      "following_count": 350,
+      "location": "",
+      "url": "https://t.co/A0nwC757oH",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1023667164245643265",
+      "name": "Ayşe Aktağ",
+      "screen_name": "aayseaktag",
+      "description": "Cyber Security Specialist, activist and mostly cat servant..🪿",
+      "profile_image": "https://pbs.twimg.com/profile_images/1959592614996439040/be2YgxFT_normal.jpg",
+      "followers_count": 6326,
+      "following_count": 2073,
+      "location": "",
+      "url": "https://t.co/gg1Em4kT92",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "4914308853",
+      "name": "Yusuf Demirci",
+      "screen_name": "meyusufdemirci",
+      "description": "Founder of @nefariusapps & @icommunitycomtr,\n\nBuilds software products.",
+      "profile_image": "https://pbs.twimg.com/profile_images/1850182027313856512/bPlUPTSj_normal.jpg",
+      "followers_count": 18878,
+      "following_count": 834,
+      "location": "Istanbul, Turkey",
+      "url": "https://t.co/kDxkSlYQxG",
+      "verified": false,
+      "professional": {
+        "type": "Creator",
+        "category": ""
+      }
+    },
+    {
+      "id": "1671433488480845824",
+      "name": "Esra",
+      "screen_name": "EsraMulkpinar",
+      "description": "developer👩🏻‍💻✨",
+      "profile_image": "https://pbs.twimg.com/profile_images/1982525833374773248/o8jwqd70_normal.jpg",
+      "followers_count": 2012,
+      "following_count": 376,
+      "location": "",
+      "url": "https://t.co/MzAzxHlaMW",
+      "verified": false,
+      "professional": null
+    },
+    {
+      "id": "1403769193401667590",
+      "name": "ilke 🦋",
+      "screen_name": "ilkosunuz",
+      "description": "SWE AI/ML",
+      "profile_image": "https://pbs.twimg.com/profile_images/1990108948700016640/dncFyxVm_normal.jpg",
+      "followers_count": 2957,
+      "following_count": 923,
+      "location": "İzmir",
+      "url": "https://t.co/Jvkden3tR7",
+      "verified": false,
+      "professional": null
+    }
+  ]
+}
