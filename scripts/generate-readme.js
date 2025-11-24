@@ -17,16 +17,23 @@ function loadFollowingData() {
 }
 
 /**
- * Kullanıcıları sıralar
+ * Diziyi rastgele karıştırır (Fisher-Yates shuffle algoritması)
+ */
+function shuffleArray(array) {
+  const shuffled = [...array]; // Orijinal diziyi değiştirmemek için kopyala
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+/**
+ * Kullanıcıları sıralar (artık kullanılmıyor, rastgele sıralama yapılıyor)
  */
 function sortUsers(users) {
-  // 1. Önce doğrulanmış hesaplar
-  // 2. Sonra takipçi sayısına göre (büyükten küçüğe)
-  return users.sort((a, b) => {
-    if (a.verified && !b.verified) return -1;
-    if (!a.verified && b.verified) return 1;
-    return b.followers_count - a.followers_count;
-  });
+  // Rastgele sıralama yapılıyor
+  return shuffleArray(users);
 }
 
 /**
