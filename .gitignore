@@ -24,3 +24,7 @@ Thumbs.db
 
 # Factory AI
 .factory/
+
+# API Test Files (contains sensitive data - API keys)
+api1-request.txt
+api1-response.txt
